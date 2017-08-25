@@ -1,0 +1,12 @@
+{
+  "name": "Amulet Of Sparks",
+  "aliases": ["sparks","s"],
+  "id": 1,
+  "type": "amulet",
+  "description": "A small brass amulet that is warm to the touch.",
+  "function": "Creates a small amount of sparks when used simmilar to a flint & steel, up to 5 meters away from the amulet.",
+  "embed": {
+      "color": "#aa6d1d",
+      "author": "Kami"
+    }
+}

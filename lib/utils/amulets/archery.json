@@ -1,0 +1,12 @@
+{
+  "name": "Amulet Of Archery",
+  "aliases": ["archery","arch"],
+  "id": 2,
+  "type": "amulet",
+  "description": "A light amulet made of smooth birch wood, featuring an amber jewel in its core.",
+  "function": "Makes a light breeze displacing the user's arrows by 10% of the traveled in the user's desired direction.",
+  "embed": {
+      "color": "#81d149",
+      "author": "Charlie"
+    }
+}

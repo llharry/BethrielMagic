@@ -1,0 +1,12 @@
+{
+  "name": "Amulet Of Threads",
+  "aliases": ["threads"],
+  "id": 4,
+  "type": "amulet",
+  "description": "A circular tortoiseshell amulet with a dreamweaver-like pattern in its centre. It reminds one of home.",
+  "function": "Allows the user to summon 2m of fine thread or 1m of string per day.",
+  "embed": {
+      "color": "#7c312d",
+      "author": "Charlie"
+    }
+}

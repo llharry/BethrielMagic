@@ -1,0 +1,17 @@
+{
+  "name": "bethriel-magic",
+  "version": "1.0.0",
+  "description": "Magic System for Bethriel RP",
+  "main": "app.js",
+  "scripts": {
+    "bot": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "embed-creator": "^1.1.4",
+    "jsonfile": "^3.0.1"
+  }
+}
